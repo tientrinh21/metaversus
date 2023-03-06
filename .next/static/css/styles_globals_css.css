@@ -492,9 +492,6 @@ video {
 .z-10 {
   z-index: 10;
 }
-.z-\[0\] {
-  z-index: 0;
-}
 .mx-\[6px\] {
   margin-left: 6px;
   margin-right: 6px;
@@ -509,14 +506,14 @@ video {
 .-mt-\[50px\] {
   margin-top: -50px;
 }
-.mt-\[8px\] {
-  margin-top: 8px;
-}
 .mt-\[28px\] {
   margin-top: 28px;
 }
 .mt-\[50px\] {
   margin-top: 50px;
+}
+.mt-\[8px\] {
+  margin-top: 8px;
 }
 .flex {
   display: flex;
@@ -530,6 +527,9 @@ video {
 .h-\[24px\] {
   height: 24px;
 }
+.h-\[28px\] {
+  height: 28px;
+}
 .h-\[300px\] {
   height: 300px;
 }
@@ -539,9 +539,6 @@ video {
 .h-\[38px\] {
   height: 38px;
 }
-.h-\[28px\] {
-  height: 28px;
-}
 .min-h-\[70vh\] {
   min-height: 70vh;
 }
@@ -550,6 +547,9 @@ video {
 }
 .w-\[100px\] {
   width: 100px;
+}
+.w-\[18px\] {
+  width: 18px;
 }
 .w-\[24px\] {
   width: 24px;
@@ -562,9 +562,6 @@ video {
 }
 .w-full {
   width: 100%;
-}
-.w-\[18px\] {
-  width: 18px;
 }
 .cursor-pointer {
   cursor: pointer;
@@ -593,11 +590,11 @@ video {
 .justify-between {
   justify-content: space-between;
 }
-.gap-8 {
-  gap: 2rem;
-}
 .gap-5 {
   gap: 1.25rem;
+}
+.gap-8 {
+  gap: 2rem;
 }
 .overflow-hidden {
   overflow: hidden;
@@ -619,14 +616,6 @@ video {
 .bg-primary-black {
   --tw-bg-opacity: 1;
   background-color: rgb(26 35 46 / var(--tw-bg-opacity));
-}
-.bg-white {
-  --tw-bg-opacity: 1;
-  background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-.bg-red-300 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(252 165 165 / var(--tw-bg-opacity));
 }
 .object-contain {
   -o-object-fit: contain;
@@ -666,20 +655,20 @@ video {
 .text-center {
   text-align: center;
 }
-.text-\[24px\] {
-  font-size: 24px;
-}
-.text-\[44px\] {
-  font-size: 44px;
-}
 .text-\[14px\] {
   font-size: 14px;
 }
 .text-\[20px\] {
   font-size: 20px;
 }
+.text-\[24px\] {
+  font-size: 24px;
+}
 .text-\[40px\] {
   font-size: 40px;
+}
+.text-\[44px\] {
+  font-size: 44px;
 }
 .font-bold {
   font-weight: 700;
@@ -699,13 +688,13 @@ video {
 .leading-\[64\.4px\] {
   line-height: 64.4px;
 }
-.text-white {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
 .text-secondary-white {
   --tw-text-opacity: 1;
   color: rgb(199 199 199 / var(--tw-text-opacity));
+}
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 * {
@@ -860,12 +849,12 @@ video {
     padding-top: 4rem;
   }
 
-  .sm\:text-\[60px\] {
-    font-size: 60px;
-  }
-
   .sm\:text-\[32px\] {
     font-size: 32px;
+  }
+
+  .sm\:text-\[60px\] {
+    font-size: 60px;
   }
 
   .sm\:leading-\[74\.4px\] {

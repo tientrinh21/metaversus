@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/toba/metaverse/app/page":["/home/toba/metaverse/styles/globals.css"]},"/home/toba/metaverse/app/layout.js":["/home/toba/metaverse/styles/globals.css"]}
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/toba/metaversus/app/page":["/home/toba/metaversus/styles/globals.css"]},"/home/toba/metaversus/app/layout.js":["/home/toba/metaversus/styles/globals.css"]}

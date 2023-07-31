@@ -1,34 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Hoobank - The next generation payment method
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Screenshot](#screenshot)
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Screenshot
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Screenshot](./screenshot.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Links
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Live Site URL: [Netlify](https://metaversus-website.netlify.app/)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Built with
 
-## Learn More
+- [Next.js](https://nextjs.org/) - The React Framework for the Web
+- [Tailwind](https://tailwindcss.com/) - Utility-first CSS framework
+- [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.
 
-To learn more about Next.js, take a look at the following resources:
+## Author
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Website - [Tien Trinh](https://tientrinh.netlify.app/)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acknowledgments
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [JavaScript Masterty](https://www.youtube.com/@javascriptmastery)
